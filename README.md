@@ -1,7 +1,7 @@
-URL Shortener Microservice - FCC Basejump
-=========================================
+URL Shortener Microservice
+==========================
 
-FCC challenge - http://www.freecodecamp.com/challenges/basejump-url-shortener-microservice
+https://url-shortener-fcc.herokuapp.com/
 
 Pass a URL as a parameter to receive a JSON string containing a shortened URL that will redirect to the original site.
 
